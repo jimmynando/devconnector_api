@@ -11,7 +11,6 @@ const User = require("../../models/User");
 // @route   POST api/users
 // @desc    Register route
 // @access  Public
-
 router.post(
   "/",
   [
